@@ -1,0 +1,46 @@
+.header {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+.btn {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 15px;
+}
+.screen {
+  width: 250px;
+  height: 65px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #b4b39d;
+  border-radius: 6px;
+  background-color: #c3c2ab;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 25px;
+  text-align: right;
+}
+.sec {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 13px;
+}
+.keypad {
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  background-color: #ccc;
+  margin-top: 5cm;
+  border: 5px solid #336699;
+  border-radius: 10px;
+  box-shadow: 5px 10px 0px #78909C;
+}
+a, a:hover {
+  text-decoration: none;
+  color: #000;
+}
+body {
+  background-color: #c3c2ab;
+}
