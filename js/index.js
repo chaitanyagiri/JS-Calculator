@@ -3,7 +3,7 @@ $(document).ready(function() {
     inp,
     checks = 1;
   function getOp(str) {
-    for (var i = 0; i < str.length; i++) {
+    for (var i = 1; i < str.length; i++) {
       if (str[i] == "+") {
         return "+";
       } else if (str[i] == "-") {
